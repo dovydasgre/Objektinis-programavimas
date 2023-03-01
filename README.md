@@ -6,3 +6,4 @@
 
 ## Versija v0.2
 - *Galima nuskaityti duomenis iš failo.*
+- *Galima rūšiuoti pagal vardus arba pavardes.*
