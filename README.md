@@ -7,3 +7,7 @@
 ## Versija v0.2
 - *Galima nuskaityti duomenis iš failo.*
 - *Galima rūšiuoti pagal vardus arba pavardes.*
+
+## Versija v0.3
+- *Sukurtas header failas ir papildomas .cpp failas funkcijoms*
+- *Idėta excetion'as try catch, kad patikrinti ar duomenų failas egzistuoja*
