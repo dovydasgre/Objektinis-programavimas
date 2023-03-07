@@ -10,4 +10,8 @@
 
 ## Versija v0.3
 - *Sukurtas header failas ir papildomas .cpp failas funkcijoms*
-- *Idėta excetion'as try catch, kad patikrinti ar duomenų failas egzistuoja*
+- *Idėta exception'as try catch, kad patikrinti ar duomenų failas egzistuoja*
+
+## Versija v0.4
+- *Sukurta automatiska studentu generavimo funkcija.*
+- *Atliekami testai su ivairiu dydziu duomenu failas ir atspausdinamas laikas.*
