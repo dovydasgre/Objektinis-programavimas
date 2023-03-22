@@ -20,10 +20,13 @@
 ![generuoti](https://user-images.githubusercontent.com/126052244/223408390-56ce35d4-ae84-40bb-951c-298a19008fd6.png)
 
 ## Versija v0.5
--**CPU: AMD Ryzen 5 5600H**
--**RAM: 16 GB 3200MHz**
--**SSD**
+
+- **CPU: AMD Ryzen 5 5600H**
+- **RAM: 16 GB 3200MHz**
+- **SSD**
 - *Padaryti testai naudojant vector, list ir deque*
 
-![visu](https://user-images.githubusercontent.com/126052244/226876378-c3dc8b6d-1ad4-4e5a-8cbc-b4a27851a110.png)
+![visu](https://user-images.githubusercontent.com/126052244/226883732-139d5827-5580-4cd8-a012-b17db363d962.png)
+
+
 
