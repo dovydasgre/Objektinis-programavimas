@@ -26,7 +26,8 @@
 - **SSD**
 - *Padaryti testai naudojant vector, list ir deque*
 
-![visu](https://user-images.githubusercontent.com/126052244/226883732-139d5827-5580-4cd8-a012-b17db363d962.png)
+![visu](https://user-images.githubusercontent.com/126052244/227478150-f7b1702d-320c-40bb-a7ff-5d0695ed050b.png)
+
 
 
 
