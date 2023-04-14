@@ -49,5 +49,18 @@
 <br>*Deko 2 strategija*<br>
 ![deque](https://user-images.githubusercontent.com/126052244/232062284-9bc071cc-86e1-49dd-bea7-7ff014977fe0.png)
 
+## Programos įdiegimas naudojant makefile
+- `git clone https://github.com/dovydasgre/objektinis-programavimas.git`
+- `cd {folderio pavadinimas}/{pasirinkta realizija}`
+- `make main`
+- `./main`
+
+## Releas'ai:
+- [**v0.1**](https://github.com/dovydasgre/objektinis-programavimas/releases/tag/v0.1)
+- [**v0.2**](https://github.com/dovydasgre/objektinis-programavimas/releases/tag/v0.2)
+- [**v0.3**](https://github.com/dovydasgre/objektinis-programavimas/releases/tag/v0.3)
+- [**v0.4**](https://github.com/dovydasgre/objektinis-programavimas/releases/tag/v0.4)
+- [**v0.5**](https://github.com/dovydasgre/objektinis-programavimas/releases/tag/v0.5)
+- [**v1.0**](https://github.com/dovydasgre/objektinis-programavimas/releases/tag/v1.0)
 
 
