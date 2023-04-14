@@ -30,7 +30,7 @@
 
 ## Versija v1.0
 - *Pritaikytos 2 strategijos darbui su konteineriu, t.y. vargšiukų ir kietiakų dalijimui.*
-- *Gauti rezultatai skirtingų strategijų bei konteinerių yra palyginami laiko ir užimamos atminties atžvilgiu.*
+- *Gauti rezultatai skirtingų strategijų bei konteinerių yra palyginami užimamos atminties atžvilgiu.*
 - *Pritaikytas ir ypatingas algoritmas su vektoriais darbui su konteineriais.*
 
 ### Strategijų užimama atmintis dirbant su konteineriais (10M duomenų)
